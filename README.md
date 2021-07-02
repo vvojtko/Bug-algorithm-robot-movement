@@ -1,5 +1,4 @@
 # Bug-algorithm-robot-movement
-
 Project made for Robotics and Embedded Systems module. A robot programmed in C language was meant to perform bug-algorithm where it follows a straight line,
 avoid obstacles on its way and come back to the line until it reaches a specified point. It contained programmed features such as:  
 -Driving and turning  
